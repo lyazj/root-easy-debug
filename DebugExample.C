@@ -1,4 +1,5 @@
 // Usage: root DebugExample.C+g
+// Alternative usage: CLING_DEBUG=1 root DebugExample.C
 //
 // Written by <lyazj@github.com>.
 #include "debug.h"
